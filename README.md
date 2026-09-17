@@ -25,7 +25,7 @@ git clone https://github.com/Solayiwo/task_manager.git
 cd <repository-name>
 ```
 
-Replace `<your-username>/<repository-name>` with the actual GitHub repository path. On Windows, you can run these commands in PowerShell, Command Prompt, or the VS Code terminal. After cloning, continue with the database setup, configuration, and dependency installation steps below.
+On Windows, you can run these commands in gitbash, PowerShell, Command Prompt, or the VS Code terminal. After cloning, continue with the database setup, configuration, and dependency installation steps below.
 
 ## Project Structure
 
