@@ -16,6 +16,17 @@ Install the following before running the application:
 - MySQL 8 or later
 - MySQL Workbench
 
+## Clone the Repository
+
+Clone the project from GitHub to your local computer:
+
+```bash
+git clone https://github.com/Solayiwo/task_manager.git
+cd <repository-name>
+```
+
+Replace `<your-username>/<repository-name>` with the actual GitHub repository path. On Windows, you can run these commands in PowerShell, Command Prompt, or the VS Code terminal. After cloning, continue with the database setup, configuration, and dependency installation steps below.
+
 ## Project Structure
 
 ```text
